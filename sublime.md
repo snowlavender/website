@@ -111,5 +111,5 @@ lorem +[tab]
 
 ---
 ### Color HighLighter
-說明：自動幫我們秀出色碼代碼的顏色
+說明：自動幫我們秀出色碼代碼的顏色：
 ![Color HighLighter](https://camo.githubusercontent.com/e13f5346a650e7e3fc2269fd4de3904d78c8fd1e/687474703a2f2f692e696d6775722e636f6d2f55506d456b30392e706e67 "Color HighLighter")

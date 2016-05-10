@@ -1,0 +1,40 @@
+body{
+	background-color: rgb(255,255,0);
+	font-size: 10px;
+}
+
+a{
+	color: red;
+	font-size: 20px;
+}
+
+a:hover{
+	color: green;
+	text-decoration: none;
+}
+
+/*
+	RGB = #ffff00 = #ff0
+
+	R = 0~255
+	G = 0~255
+	B = 0~255
+
+	1 =   1 = 
+	2 =  10 =
+	3 =  11 =
+	4 = 100 =
+	5 = 101 =
+	6 = 110 =
+	7 = 111 =
+	8 =1000 =
+	9 =1001 =
+   10 =1010 = a
+   11 = b
+   12 = c
+   13 = d
+   14 = e
+   15 = f
+   16 =10
+   255 = ff = 15 * 16 + 15
+*/ 
